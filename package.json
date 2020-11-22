@@ -2,7 +2,7 @@
   "name": "metaverse",
   "version": "0.92.12",
   "description": "The Metaverse virtual reality. The final outcome of all virtual worlds, augmented reality, and the Internet.",
-  "main": "index.js"
+  "main": "index.js",
   "license": "MIT",
   "devDependencies": {
     "mocha": "~3.1"
