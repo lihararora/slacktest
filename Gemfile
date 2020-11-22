@@ -1,3 +1,4 @@
+source 'http://rubygems.org'
 gems "dotenv-rails", "2.7.2"
 gems "aasm", "5.0.1"
 gems "activerecord-import", "0.20.2"
